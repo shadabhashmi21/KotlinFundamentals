@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a797e49-9147-46ff-8ce3-33d2ab6038d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nullable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.LoopKt">
+  <component name="RunManager" selected="Kotlin.NullableKt">
     <configuration name="BasicsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicsKt" />
       <module name="KotlinFundamentals" />
@@ -57,6 +57,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NullableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullableKt" />
+      <module name="KotlinFundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhenKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhenKt" />
       <module name="KotlinFundamentals" />
@@ -66,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NullableKt" />
         <item itemvalue="Kotlin.LoopKt" />
         <item itemvalue="Kotlin.WhenKt" />
         <item itemvalue="Kotlin.BasicsKt" />
