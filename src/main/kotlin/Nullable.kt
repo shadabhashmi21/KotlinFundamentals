@@ -6,6 +6,8 @@ fun main(){
     //nullableName = null // We can assign null here because the value is nullable
 
     var len1 = name.length
+
+    //?. The null safety operator
     var len2 = nullableName?.length
     //The above code is equivalent to the below given if-else
     if (nullableName != null)
