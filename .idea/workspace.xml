@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a797e49-9147-46ff-8ce3-33d2ab6038d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InfixFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
