@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a797e49-9147-46ff-8ce3-33d2ab6038d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NamedParameters.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -43,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NamedParametersKt">
+  <component name="RunManager" selected="Kotlin.ExtensionFunctionKt">
     <configuration name="JavaInteroperability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaInteroperability" />
       <module name="KotlinFundamentals" />
@@ -51,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ElvisOperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ElvisOperatorKt" />
+    <configuration name="ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExtensionFunctionKt" />
       <module name="KotlinFundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +82,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.NamedParametersKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Application.JavaInteroperability" />
         <item itemvalue="Kotlin.RangesKt" />
-        <item itemvalue="Kotlin.ElvisOperatorKt" />
       </list>
     </recent_temporary>
   </component>
