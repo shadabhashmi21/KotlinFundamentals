@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a797e49-9147-46ff-8ce3-33d2ab6038d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InfixFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Constructor.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -44,9 +44,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExtensionFunctionKt">
+  <component name="RunManager" selected="Kotlin.PrimaryConstructorKt">
     <configuration name="JavaInteroperability" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaInteroperability" />
+      <module name="KotlinFundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConstructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConstructorKt" />
       <module name="KotlinFundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,20 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RangesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RangesKt" />
-      <module name="KotlinFundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PrimaryConstructorKt" />
         <item itemvalue="Kotlin.ExtensionFunctionKt" />
         <item itemvalue="Kotlin.NamedParametersKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Application.JavaInteroperability" />
-        <item itemvalue="Kotlin.RangesKt" />
       </list>
     </recent_temporary>
   </component>
