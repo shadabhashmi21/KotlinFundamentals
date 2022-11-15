@@ -19,8 +19,8 @@ fun main(){
 /*In Kotlin, every class is public and final by default, and we can't extend any final class.
 * So to remove the final property of a class, we use the "open" keyword.*/
 open class Animal {
-    var color = ""
-    fun eat() = println("Animal Eat")
+    open var color = ""
+    open fun eat() = println("Animal Eat")
 }
 
 class Dog: Animal(){
