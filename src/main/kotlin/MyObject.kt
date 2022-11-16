@@ -19,6 +19,10 @@ open class MySuperClass{
 * Similar to static in Java*/
 object CustomersData: MySuperClass() {
 
+    init {
+        println("Init Called")
+    }
+
     var count: Int = -1             // Behaves like a STATIC variable
 
     fun typeOfCustomers(): String { // Behaves like a STATIC method
