@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a797e49-9147-46ff-8ce3-33d2ab6038d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MyDataClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MyObject.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MyDataClassKt">
-    <configuration name="ExtensionFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExtensionFunctionKt" />
-      <module name="KotlinFundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.MyObjectKt">
     <configuration name="FunctionOverridingKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FunctionOverridingKt" />
       <module name="KotlinFundamentals" />
@@ -80,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyObjectKt" />
+      <module name="KotlinFundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MyObjectKt" />
         <item itemvalue="Kotlin.MyDataClassKt" />
         <item itemvalue="Kotlin.MyInterfaceKt" />
         <item itemvalue="Kotlin.FunctionOverridingKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
-        <item itemvalue="Kotlin.ExtensionFunctionKt" />
       </list>
     </recent_temporary>
   </component>
