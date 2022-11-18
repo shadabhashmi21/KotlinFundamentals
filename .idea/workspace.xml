@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a797e49-9147-46ff-8ce3-33d2ab6038d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MyDataClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DataClass.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MyInterface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Interface.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MyObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Object.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LambdaFunction.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +44,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.CompanionObjectKt">
+  <component name="RunManager" selected="Kotlin.LambdaFunctionKt">
     <configuration name="CompanionObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompanionObjectKt" />
-      <module name="KotlinFundamentals" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataClassKt" />
       <module name="KotlinFundamentals" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +66,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LambdaFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaFunctionKt" />
+      <module name="KotlinFundamentals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectKt" />
       <module name="KotlinFundamentals" />
@@ -83,10 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LambdaFunctionKt" />
         <item itemvalue="Kotlin.CompanionObjectKt" />
-        <item itemvalue="Kotlin.MyObjectKt" />
-        <item itemvalue="Kotlin.MyDataClassKt" />
-        <item itemvalue="Kotlin.MyInterfaceKt" />
         <item itemvalue="Kotlin.FunctionOverridingKt" />
       </list>
     </recent_temporary>
